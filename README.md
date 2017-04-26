@@ -1,7 +1,7 @@
 # Sudoku
 2011 second semester final project while at Marseille Luminy University
 
-![Sudoku Demo](https://cloud.githubusercontent.com/assets/2991143/25438931/3789c8f4-2a9b-11e7-8e77-261147987597.gif)
+![Sudoku Demo](https://cloud.githubusercontent.com/assets/2991143/25461505/b3c40da0-2ae9-11e7-8e2b-7a02515d4991.gif)
 
 # Old-School
 
