@@ -9,4 +9,4 @@ This was my first C program, while studying at the [University of Marseille Lumi
 
 All code is in a really ugly single C file, using lots of globals and should not be compiled with any strict flag. :)
 
-But I feel a little nostalgic when I read it, and makes me see the evolution of my programming style.
+Just for Nostalgia.
